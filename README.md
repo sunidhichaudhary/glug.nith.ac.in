@@ -2,7 +2,7 @@
 Almost all of the GLUG-NITH [website][1] is available here. The main aim of making the source code available to all via git is to promote the use of git among students especially among students in [NITH][3]
 
 # How do I get Started ?
-If you are motivated enough to have your first pull request to git, there should not be any difficulty for you to find resources about learning git from the internet. The most followed reference is git-scm.com 
+If you are motivated enough to have your first pull request to github, there should not be any difficulty for you to find resources about learning git from the internet. The most followed reference is git-scm.com 
 
 You can always hang out on this website and know about having your first commit via git and then having your first pull request to the main repository. 
 
